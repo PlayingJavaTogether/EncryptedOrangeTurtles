@@ -58,6 +58,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EncryptedOrangeTurtlesPersistence\EncryptedOrangeTurtlesPersistence.csproj">
+      <Project>{d23cf1a3-49b2-41bd-84e6-798fd6926465}</Project>
+      <Name>EncryptedOrangeTurtlesPersistence</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
