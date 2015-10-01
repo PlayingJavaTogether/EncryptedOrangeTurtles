@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedOrangeTurtlesServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedOrangeTurtlesService.Test", "EncryptedOrangeTurtlesService.Test\EncryptedOrangeTurtlesService.Test.csproj", "{12C80E50-1677-4ED0-9900-3DB9DC7CF464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedOrangeTurtlesPersistence", "EncryptedOrangeTurtlesPersistence\EncryptedOrangeTurtlesPersistence.csproj", "{D23CF1A3-49B2-41BD-84E6-798FD6926465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{12C80E50-1677-4ED0-9900-3DB9DC7CF464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C80E50-1677-4ED0-9900-3DB9DC7CF464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C80E50-1677-4ED0-9900-3DB9DC7CF464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23CF1A3-49B2-41BD-84E6-798FD6926465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23CF1A3-49B2-41BD-84E6-798FD6926465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23CF1A3-49B2-41BD-84E6-798FD6926465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23CF1A3-49B2-41BD-84E6-798FD6926465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
