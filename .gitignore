@@ -13,6 +13,9 @@ bin/
 gen/
 obj/
 
+# Nuget/maven packages
+packages/
+
 # Gradle files
 .gradle/
 build/
